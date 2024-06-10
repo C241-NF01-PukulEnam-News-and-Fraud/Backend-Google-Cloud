@@ -1,0 +1,4 @@
+.env
+flatten.tflite
+tokenizer.pkl
+convo.tflite
